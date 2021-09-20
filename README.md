@@ -66,8 +66,8 @@
     <td>  :one::ten: Github Repos </td>
   </tr>
 </table>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjydas&theme=graywhite&layout=compact&hide=html" alt="abhi526691" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi526691&theme=graywhite&show_icons=true" alt="abhi526691" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manendranathshukla&theme=graywhite&layout=compact&hide=html" alt="manendranathshukla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manendranathshukla&theme=graywhite&show_icons=true" alt="manendranathshukla" /></p>
 
 
 ## My Programming Profiles:
