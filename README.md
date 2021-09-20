@@ -5,32 +5,32 @@
  
 ## You will find me here:
 <p align="center">
- <a href="https://www.linkedin.com/in/abhishek-pandey-1515aa171/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
+ <a href="https://www.linkedin.com/in/manendra-nath-s-5b5663170/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005642252090" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snjydas251297" height="30" width="40" /></a>
 <a href="https://instagram.com/_abhishek__pandey___" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="geekyslayer" height="30" width="40" /></a>
-<a href="https://medium.com/@abhishek10548" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@snjydas" height="30" width="40" /></a>
+
 </p>
 
 ## About Me:
 
-- 🔭 I’m currently working on [Covid Coach](http://corona-19.epizy.com/).
+- 🔭 I’m currently working on [BidNBook](https://bidnbook.in/).
 
-- 🌱 I’m currently learning **Django & MongoDB**.
+- 🌱 I’m currently learning **Django & ReactJs**.
 
-- 👯 I’m looking to collaborate on [Covid Guard](https://github.com/snjydas/Covid-Guard).
+- 👯 I’m looking to collaborate on [WorkRoom](https://workroomapp.herokuapp.com/).
 
-- 📝 I regulary write articles on [medium.](https://medium.com/@abhishek10548).
+- 📝 I regulary write articles on [MyThinksWork](https://mythingswork.herokuapp.com/).
 
 - 💬 Ask me about **Python, Datascience, Web Development & Machine Learning**.
 
-- 📫 How to reach me **abhi526691shek@gmail.com**.
+- 📫 How to reach me **shuklamanendranath@gmail.com**.
 
 - ⚡ Fun fact **I would love to explore new thing and work on new technologies**.
 
 🤔 Looking for a job which would help me make most of my skills.
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1QKPe9mPgyoXDFQYY5pjAgsD0KT2bgVzD/view?usp=sharing)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://www.linkedin.com/in/abhishek-pandey-1515aa171/)*
+&nbsp; &nbsp; *[View My CV](https://www.linkedin.com/in/manendra-nath-s-5b5663170/)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://www.linkedin.com/in/manendra-nath-s-5b5663170/)*
 <br />
 
 ## Tech Stack
@@ -46,9 +46,9 @@
 
 
 ## 👯 Communities
-* web Developer at Samarthya
-* Web Developer at Magneta
-* Cheif Igniter, VelTech D2C Club.
+* Backend Developer at BidnBook.in
+* Full Stack Developer at Marisomart Workroom
+* Youtuber at Youtube[MyCodeWorks].
 
 ## My Stats:
 
