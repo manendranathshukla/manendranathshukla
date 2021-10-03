@@ -13,7 +13,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [BidNBook](https://bidnbook.in/).
+- 🔭 I’m worked as freelancer at [BidNBook](https://bidnbook.in/).
 
 - 🌱 I’m currently learning **Django & ReactJs**.
 
