@@ -46,7 +46,7 @@
 
 
 ## 👯 Communities
-* Backend Developer at BidnBook.in
+* Freelancing Backend Developer at BidnBook.in
 * Full Stack Developer at Marisomart Workroom
 * Youtuber at Youtube[MyCodeWorks].
 
