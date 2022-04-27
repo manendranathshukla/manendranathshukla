@@ -15,7 +15,7 @@
 
 - 🔭 I have worked as freelancer at [BidNBook](https://bidnbook.in/).
 
-- 🌱 I’m currently learning **Django & ReactJs**.
+- 🌱 I’m currently learning **Flutter**.
 
 - 👯 I’m looking to collaborate on [WorkRoom](https://workroomapp.herokuapp.com/).
 
