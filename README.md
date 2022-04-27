@@ -37,11 +37,21 @@
 ## Tech Stack
 
 <p align="left"><img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+
+ <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="css3" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/344/django.png" alt="django" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/344/google-cloud-platform.png" alt="gcp" width="40" height="40"/>
  <img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="40" height="40"/>
 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> 
+ <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png" alt="html5" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/344/ubuntu--v1.png" alt="linux" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/344/postgreesql.png" alt="postgresql" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/344/jenkins.png" alt="Jenkins" width="40" height="40"/>
   <img src="https://img.icons8.com/color/344/jira.png" alt="Jira" width="40" height="40"/>
  </p>
